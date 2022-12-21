@@ -1,0 +1,4 @@
+{
+    "testRepo": "Click-And-Drag-Solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
